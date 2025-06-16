@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Aman3214"
+title                    : "Aman"
 title_separator          : "-"
 name                     : &name "Aman Anand"
 description              : &description "Student at IIT(ISM) Dhanbad"
@@ -22,7 +22,7 @@ repository               : "Aman3214/Aman3214.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Aman.jpg"
   name             : "Aman Anand"
   pronouns         : "He/Him"  
   bio              : "Hi nice to meet you! 😊"

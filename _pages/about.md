@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm Aman Anand, a Computer Science undergraduate at IIT (ISM) Dhanbad with a growing passion for **computer vision, 3D perception, and AI for robotics**. My academic curiosity is driven by the intersection of geometry, learning, and real-world visual understanding.
+
+I'm actively exploring topics like **Neural Radiance Fields (NeRF), 3D reconstruction, and visual reasoning for autonomous systems**. I regularly read and replicate foundational research papers, and enjoy applying what I learn through experimentation in frameworks like PyTorch, ROS, and simulation environments. You can find some of my work on [GitHub](https://github.com/Aman3214) and my experiments and competitions on [Kaggle](https://www.kaggle.com/goodbye12).
+
+Outside academics, I’m a member of the robotics club at IIT Dhanbad and volunteer with Kartavya, a student-led NGO. I also enjoy reading, sketching and playing guitar as well as like to explore Quantitative finance for fun.
+
+I’m looking to contribute to research in **computer vision, robotics perception, and AI for embodied systems**, and always eager to connect and collaborate with like-minded researchers.
 
 <!-- A data-driven personal website
 ======
